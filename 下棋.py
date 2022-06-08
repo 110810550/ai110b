@@ -1,6 +1,5 @@
 #程式來源:https://www.796t.com/content/1544605205.html
 import random
-from tkinter import N
 # 畫棋盤的函式，傳入一個放置棋子的列表
 def drawBoard(board) :
 
