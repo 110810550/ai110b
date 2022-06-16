@@ -1,3 +1,4 @@
+摻考資料:https://www.twblogs.net/a/5c3b1db6bd9eee35b21dcf19
 class Node:
     def __init__(self):
         self.x=0
